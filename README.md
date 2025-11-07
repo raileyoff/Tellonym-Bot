@@ -31,13 +31,9 @@ It’s built to make communication more **honest, open, and enjoyable** for ever
 Send and receive anonymous messages directly on Discord!  
 Let your friends share honest thoughts or secrets safely and privately with a modern Tellonym-style bot.
 
----
-
 ### 🇫🇷 Français
 Envoyez et recevez des messages anonymes directement sur Discord !  
 Laissez vos amis partager leurs avis, secrets ou confidences en toute sécurité grâce à un bot moderne inspiré de Tellonym.
-
----
 
 ### 🇸🇦 العربية
 أرسل واستقبل **رسائل مجهولة الهوية** مباشرة على **ديسكورد**!  
@@ -55,14 +51,15 @@ Laissez vos amis partager leurs avis, secrets ou confidences en toute sécurité
 
 **NextGen Team**  
 ⚡ Discord Bot Developers | Custom Solutions | Innovation for Communities  
-Follow us for updates and support!
+Developed by **@raileyoff** — one of the main developers of the NextGen team.
 
 ---
 
 ### 📜 License
 This project is protected under the **MIT License**.  
-You’re free to use, modify, and share it — just credit the original creators.
+You’re free to use, modify, and share it — just credit the NextGen team.
 
 ---
 
 > 💌 *Tellonym Bot – Where honesty meets fun.*
+
